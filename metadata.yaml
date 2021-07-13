@@ -1,5 +1,8 @@
 _repo: World-of-the-Hunter_65730
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65730-h/images/cover.jpg
 creator:
   author:
     agent_name: Marlowe, Stephen
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32369
     wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65730#World-of-the-Hunter
 gutenberg_issued: '2021-06-29'
 gutenberg_type: Text
 identifiers:
